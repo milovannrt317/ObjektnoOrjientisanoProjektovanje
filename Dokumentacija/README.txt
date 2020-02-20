@@ -1,5 +1,5 @@
-Autori: Nikola Jovicic NRT-6/17
-	Milovan Lazic NRT-3/17
+Autori: Milovan Lazic NRT-3/17
+	Nikola Jovicic NRT-6/17
 
 
 
